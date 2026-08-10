@@ -334,26 +334,23 @@ MySQL • MSSQL • ClickHouse • ETL • Power BI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashparsai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashparsai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=yashparsai&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" height="180"/>
+<img src="https://streak-stats.demolab.com?user=yashparsai&theme=tokyonight&hide_border=true&mode=weekly" height="180"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashparsai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashparsai&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
 
 </div>
-
 ---
-
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashparsai&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=yashparsai&theme=tokyonight&hide_border=true&border_radius=10" width="80%"/>
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
