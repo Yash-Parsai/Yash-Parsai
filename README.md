@@ -331,16 +331,6 @@ MySQL • MSSQL • ClickHouse • ETL • Power BI
 ---
 
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashparsai&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 
 
 ## 🎯 Current Focus
