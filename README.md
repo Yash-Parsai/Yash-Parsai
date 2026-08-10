@@ -330,28 +330,6 @@ MySQL • MSSQL • ClickHouse • ETL • Power BI
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashparsai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=yashparsai&theme=tokyonight&hide_border=true&mode=weekly" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashparsai&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
-
-</div>
----
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashparsai&theme=tokyonight&hide_border=true&border_radius=10" width="80%"/>
-
-</div>
----
 
 ## 📈 Contribution Activity
 
