@@ -366,25 +366,7 @@ MySQL • MSSQL • ClickHouse • ETL • Power BI
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/yashparsai/yashparsai/output/github-contribution-grid-snake-dark.svg)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Yash-Parsai/Yash-Parsai/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Yash-Parsai/Yash-Parsai/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Yash-Parsai/Yash-Parsai/output/github-snake.svg"/>
-  </picture>
-</p>
-</div>
-
-
----
 
 ## 🎯 Current Focus
 
